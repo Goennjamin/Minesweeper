@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/leonw/CLionProjects/Praktikum4/main.cpp
+iostream
+-
+minesweeper.h
+C:/Users/leonw/CLionProjects/Praktikum4/minesweeper.h
+
+C:/Users/leonw/CLionProjects/Praktikum4/minesweeper.h
+iostream
+-
+time.h
+C:/Users/leonw/CLionProjects/Praktikum4/time.h
+
